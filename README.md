@@ -1,4 +1,4 @@
-🚀 Full Stack Developer | Symfony/React Specialist 🛠️
+🚀 Full Stack Developer | Symfony/React 🛠️
 
 Greetings! 👋 I'm Erwann, a Full Stack Developer with a passion for addressing intricate infrastructure challenges. My expertise lies in harnessing the capabilities of Symfony and React to construct robust and scalable solutions.
 
